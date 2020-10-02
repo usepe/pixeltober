@@ -32,3 +32,11 @@ Inktober prompts but with pixel art
 - 29 - Shoes
 - 30 - Ominous
 - 31 - Crawl
+
+# pequeña bitácora
+
+## Día 1
+
+Lo hice medio así nomás, es el de calibrar en que lugar estoy. Estoy lejos de saber como se hace un pixel art decente.
+
+Mañana además de hacer el pixel art con una imagen de referencia, debería ver como encarar ciertos aspectos de la imagen que elija representar.
