@@ -3,7 +3,7 @@ Inktober prompts but with pixel art
 
 - [01 - Fish](day01-fish.png)
 - [02 - Wisp](day02-wisp.gif)
-- 03 - Bulky
+- [03 - Bulky](day03-bulky.png)
 - 04 - Radio
 - 05 - Blade
 - 06 - Rodent
@@ -37,6 +37,7 @@ Inktober prompts but with pixel art
 
 ![Fish](day01-fish.png)
 ![Wisp](day02-wisp.gif)
+![Bulky](day03-bulky.png)
 
 # Links
 
