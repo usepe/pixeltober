@@ -32,3 +32,5 @@ Use el dithering para agregarle un efecto de antiguedad.
 Lo que veo para mejorar es hacer los colores menos planos. Tal vez un mejor estudio de luces y sombras.
 
 Me gusto igual el uso que le di a la paleta, y a la elección de la misma, que tenía buenos colores que ayudaban a lo que se quería lograr.
+
+**Nota**: Aprendizaje importante, no se puede hacer que el Color Mode de un Sprite sea Indexed y utilizar opacidad de las capas.
