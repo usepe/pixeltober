@@ -40,3 +40,5 @@ Me gusto igual el uso que le di a la paleta, y a la elección de la misma, que t
 Le dediqué poco tiempo. Arranque con la idea de hacer un Katar pero desistí al ver que quedaba poco detallado. Partir de un diseño simple para una temática como "Blade" eligiendo una especie de arma blanca, me pareció bastante malo para hacer un buen pixel art.
 
 Me decidí entonces por una forma mas de Dagger, medio mágica. Aunque finalmente no logré el efecto deseado, siento que quedó mejor que lo que había quedado el Katar (sumado a que se le dedicó poco tiempo, me voy con una media victoria)
+
+Con un agregado de último minuto agregué un poco más de esa cosa "mágica" que creo una buena espada de pixel art tiene que tener.
