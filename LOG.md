@@ -34,3 +34,9 @@ Lo que veo para mejorar es hacer los colores menos planos. Tal vez un mejor estu
 Me gusto igual el uso que le di a la paleta, y a la elección de la misma, que tenía buenos colores que ayudaban a lo que se quería lograr.
 
 **Nota**: Aprendizaje importante, no se puede hacer que el Color Mode de un Sprite sea Indexed y utilizar opacidad de las capas.
+
+## Día 5
+
+Le dediqué poco tiempo. Arranque con la idea de hacer un Katar pero desistí al ver que quedaba poco detallado. Partir de un diseño simple para una temática como "Blade" eligiendo una especie de arma blanca, me pareció bastante malo para hacer un buen pixel art.
+
+Me decidí entonces por una forma mas de Dagger, medio mágica. Aunque finalmente no logré el efecto deseado, siento que quedó mejor que lo que había quedado el Katar (sumado a que se le dedicó poco tiempo, me voy con una media victoria)

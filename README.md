@@ -5,7 +5,7 @@ Inktober prompts but with pixel art
 - [02 - Wisp](day02-wisp.gif)
 - [03 - Bulky](day03-bulky.png)
 - [04 - Radio](day04-radio.png)
-- 05 - Blade
+- [05 - Blade](day05-blade.png)
 - 06 - Rodent
 - 07 - Fancy
 - 08 - Teeth
@@ -39,6 +39,7 @@ Inktober prompts but with pixel art
 ![Wisp](day02-wisp.gif)
 ![Bulky](day03-bulky.png)
 ![Radio](day04-radio.png)
+![Blade](day05-blade.png)
 
 # Links
 
