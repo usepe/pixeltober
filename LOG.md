@@ -42,3 +42,13 @@ Le dediqué poco tiempo. Arranque con la idea de hacer un Katar pero desistí al
 Me decidí entonces por una forma mas de Dagger, medio mágica. Aunque finalmente no logré el efecto deseado, siento que quedó mejor que lo que había quedado el Katar (sumado a que se le dedicó poco tiempo, me voy con una media victoria)
 
 Con un agregado de último minuto agregué un poco más de esa cosa "mágica" que creo una buena espada de pixel art tiene que tener.
+
+## Día 6
+
+Si bien no le dediqué mucho tiempo, siento que obtuve un mejor resultado del que estaba dispuesto a hacer en el día.
+
+Hoy tenía poco tiempo para dedicarle, pero creo que pude hacer una idea bastante buena de lo que tenía pensado.
+
+Me permití jugar con las luces y las sombras, asi como con efectos de Dithering + Borrado para generar un Dithering sobre ciertas zonas que quería pierdan un poco.
+
+También la selección de colores limitada y pensar de más los detalles como el pelaje, hicieron a un mejor resultado (además de descartar desde el vamos un roedor con un look más realista)

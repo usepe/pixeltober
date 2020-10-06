@@ -6,7 +6,7 @@ Inktober prompts but with pixel art
 - [03 - Bulky](day03-bulky.png)
 - [04 - Radio](day04-radio.png)
 - [05 - Blade](day05-blade.png)
-- 06 - Rodent
+- [06 - Rodent](day06-rodent.png)
 - 07 - Fancy
 - 08 - Teeth
 - 09 - Throw
@@ -40,6 +40,7 @@ Inktober prompts but with pixel art
 ![Bulky](day03-bulky.png)
 ![Radio](day04-radio.png)
 ![Blade](day05-blade.png)
+![Rodent](day06-rodent.png)
 
 # Links
 
