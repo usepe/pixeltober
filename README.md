@@ -1,13 +1,13 @@
 # Pixeltober
 Inktober prompts but with pixel art
 
-- [01 - Fish](day01-fish.png)
-- [02 - Wisp](day02-wisp.gif)
-- [03 - Bulky](day03-bulky.png)
-- [04 - Radio](day04-radio.png)
-- [05 - Blade](day05-blade.png)
-- [06 - Rodent](day06-rodent.png)
-- [07 - Fancy](day07-fancy.png)
+- [01 - Fish](2020/day01-fish.png)
+- [02 - Wisp](2020/day02-wisp.gif)
+- [03 - Bulky](2020/day03-bulky.png)
+- [04 - Radio](2020/day04-radio.png)
+- [05 - Blade](2020/day05-blade.png)
+- [06 - Rodent](2020/day06-rodent.png)
+- [07 - Fancy](2020/day07-fancy.png)
 - 08 - Teeth
 - 09 - Throw
 - 10 - Hope
@@ -35,13 +35,13 @@ Inktober prompts but with pixel art
 
 # Todos los dibujos
 
-![Fish](day01-fish.png)
-![Wisp](day02-wisp.gif)
-![Bulky](day03-bulky.png)
-![Radio](day04-radio.png)
-![Blade](day05-blade.png)
-![Rodent](day06-rodent.png)
-![Fancy](day07-fancy.png)
+![Fish](2020/day01-fish.png)
+![Wisp](2020/day02-wisp.gif)
+![Bulky](2020/day03-bulky.png)
+![Radio](2020/day04-radio.png)
+![Blade](2020/day05-blade.png)
+![Rodent](2020/day06-rodent.png)
+![Fancy](2020/day07-fancy.png)
 
 # Links
 
