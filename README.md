@@ -7,7 +7,7 @@ Inktober prompts but with pixel art
 - [04 - Radio](day04-radio.png)
 - [05 - Blade](day05-blade.png)
 - [06 - Rodent](day06-rodent.png)
-- 07 - Fancy
+- [07 - Fancy](day07-fancy.png)
 - 08 - Teeth
 - 09 - Throw
 - 10 - Hope
@@ -41,6 +41,7 @@ Inktober prompts but with pixel art
 ![Radio](day04-radio.png)
 ![Blade](day05-blade.png)
 ![Rodent](day06-rodent.png)
+![Fancy](day07-fancy.png)
 
 # Links
 

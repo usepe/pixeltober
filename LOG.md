@@ -52,3 +52,11 @@ Hoy tenía poco tiempo para dedicarle, pero creo que pude hacer una idea bastant
 Me permití jugar con las luces y las sombras, asi como con efectos de Dithering + Borrado para generar un Dithering sobre ciertas zonas que quería pierdan un poco.
 
 También la selección de colores limitada y pensar de más los detalles como el pelaje, hicieron a un mejor resultado (además de descartar desde el vamos un roedor con un look más realista)
+
+## Dia 7
+
+Me costó pensar la idea. Fue bueno armar un boceto en tradicional para poder pensar más o menos los colores y las formas.
+
+No hice cosas muy complejas, y construí sobre lo que vengo haciendo desde el día 1.
+
+Mañana toca uno que creo que me va a quedar horrible, así que espero poder dedicarle mucho tiempo y pensar una buena idea base.
