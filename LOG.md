@@ -60,3 +60,17 @@ Me costó pensar la idea. Fue bueno armar un boceto en tradicional para poder pe
 No hice cosas muy complejas, y construí sobre lo que vengo haciendo desde el día 1.
 
 Mañana toca uno que creo que me va a quedar horrible, así que espero poder dedicarle mucho tiempo y pensar una buena idea base.
+
+## Dia 8
+
+Hoy fue el único día que tenía una idea clara de lo que quería hacer.
+
+Creo que para dientes siempre me viene a la mnente este personaje de Azumanga Daioh.
+
+No tiene nombre, pero aparece en muchas ocasiones como un gato con una clara intención de morder.
+
+Ahora yendo a lo "técnico", la elección de la paleta no fue la mejor, pero quería tener una paleta lo suficientemente limitada para que no me ponga a hacer pavadas (es un personaje de 4 colores máximo), pero tal vez podría haberla armado con mis propios grises en lugar de usar una de las paletas que vienen con Aseprite.
+
+Mas allá de eso me gusto como quedó. Tal vez como mejora, vería como sintetizar mejor las figuras más circulares (como las patas, que quedaron con bastantes pixeles "desprolijos").
+
+Mañana toca uno difícil (para el que medio tengo la idea, pero no se como lograrla en las restricciones que me puse).
