@@ -9,7 +9,7 @@ Inktober prompts but with pixel art
 - [06 - Rodent](2020/day06-rodent.png)
 - [07 - Fancy](2020/day07-fancy.png)
 - [08 - Teeth](2020/day08-teeth.png)
-- 09 - Throw
+- [09 - Throw](2020/day09-throw.png)
 - 10 - Hope
 - 11 - Disgusting
 - 12 - Slippery
@@ -43,6 +43,7 @@ Inktober prompts but with pixel art
 ![Rodent](2020/day06-rodent.png)
 ![Fancy](2020/day07-fancy.png)
 ![Teeth](2020/day08-teeth.png)
+![Throw](2020/day09-throw.png)
 
 # Links
 

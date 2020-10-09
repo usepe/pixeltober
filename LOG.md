@@ -74,3 +74,15 @@ Ahora yendo a lo "técnico", la elección de la paleta no fue la mejor, pero que
 Mas allá de eso me gusto como quedó. Tal vez como mejora, vería como sintetizar mejor las figuras más circulares (como las patas, que quedaron con bastantes pixeles "desprolijos").
 
 Mañana toca uno difícil (para el que medio tengo la idea, pero no se como lograrla en las restricciones que me puse).
+
+## Dia 9
+
+No salió tan mal. Tenía una idea clara que creí me iba a complicar demasiado la existencia.
+
+Si bien no es un gran dibujo creo que logré bien la pose, aunque no con tanto dinamismo como hubiese gustado.
+
+Entre las cosas a pulir está la cara, que no quedó ni cerca a algo parecido a una cara que, aunque la limitación de cantidad de pixeles era bastante, por ahi jugando con la proporción hubiese tenido un mejor acabado.
+
+Me gustó el manejo del color en éste, pero creo que no logré el mejor color en el guante y tal vez el half tone en uniforme es un poco mucho.
+
+Mañana toca otro de los "complicados" al ser un concepto tan abstracto como lo fue "Fancy".
