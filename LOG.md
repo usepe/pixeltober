@@ -86,3 +86,11 @@ Entre las cosas a pulir está la cara, que no quedó ni cerca a algo parecido a 
 Me gustó el manejo del color en éste, pero creo que no logré el mejor color en el guante y tal vez el half tone en uniforme es un poco mucho.
 
 Mañana toca otro de los "complicados" al ser un concepto tan abstracto como lo fue "Fancy".
+
+## Día 10
+
+Dibujo con muy muy muy poco esfuerzo. No debería haberlo hecho animado, pero no se me ocurrió otra forma de ilustrar Hope que no sea el crecimiento de una plantita.
+
+Preferiría haberla puesto sobre una tierra con pinta de no dar ninguna especie de vegetación, y tal vez elegir una planta que "exista" (alguna referencia de algún tipo), en lugar que lo que hice.
+
+No estoy muy conforme, pero al menos lo hice.

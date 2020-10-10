@@ -10,7 +10,7 @@ Inktober prompts but with pixel art
 - [07 - Fancy](2020/day07-fancy.png)
 - [08 - Teeth](2020/day08-teeth.png)
 - [09 - Throw](2020/day09-throw.png)
-- 10 - Hope
+- [10 - Hope](2020/day10-hope.gif)
 - 11 - Disgusting
 - 12 - Slippery
 - 13 - Dune
@@ -44,6 +44,7 @@ Inktober prompts but with pixel art
 ![Fancy](2020/day07-fancy.png)
 ![Teeth](2020/day08-teeth.png)
 ![Throw](2020/day09-throw.png)
+![Hope](2020/day10-hope.gif)
 
 # Links
 
