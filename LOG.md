@@ -94,3 +94,12 @@ Dibujo con muy muy muy poco esfuerzo. No debería haberlo hecho animado, pero no
 Preferiría haberla puesto sobre una tierra con pinta de no dar ninguna especie de vegetación, y tal vez elegir una planta que "exista" (alguna referencia de algún tipo), en lugar que lo que hice.
 
 No estoy muy conforme, pero al menos lo hice.
+
+## Dia 11
+
+No tenía ganas de hacerlo el 11, tenía ganas de hacer otras cosas, así que lo aplacé. Voy a hacer tanto el día 11 como el 12 en el mismo día.
+La idea la pensé ayer, y creo que salió bastante bien, fui más relajado con la paleta (ya que me permití agregar los colores que necesitaba en lugar de seguir un preset).
+
+Creo que la idea de la paleta es algo positivo, pero que no debería restringirme con eso cuando hago todos dibujos separados que no tienen desde el vamos un núcleo pensado (por ejemplo: tener una ambientación definida como parte de un juego o un proyecto mayor), sino que son un dibujo por día que varía en temática.
+
+Creo que con la restricción del canvas ya es suficiente.
