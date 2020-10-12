@@ -103,3 +103,12 @@ La idea la pensé ayer, y creo que salió bastante bien, fui más relajado con l
 Creo que la idea de la paleta es algo positivo, pero que no debería restringirme con eso cuando hago todos dibujos separados que no tienen desde el vamos un núcleo pensado (por ejemplo: tener una ambientación definida como parte de un juego o un proyecto mayor), sino que son un dibujo por día que varía en temática.
 
 Creo que con la restricción del canvas ya es suficiente.
+
+
+## Día 12
+
+Como pensar en Slippery sin pensar en un slime de RPG. Y, como pensar en un slime de RPG sin pensar en Poring de Ragnarok Online (al que juego de tanto en tanto hoy en día).
+
+Este poring lo hice tomando como referencia el de la carta de Poring, y la paleta la hice custom para poder tener a mi disposición los colores que le hagan honor (en lo que es mi capacidad claro esta)
+
+Es de los que más me gustó como quedó. No se si es un tema de que el Poring es un personaje que me encanta, o si es un tema de que realmente hace la diferencia una buena paleta, lo comprobaré mañana.

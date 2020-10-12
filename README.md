@@ -12,7 +12,7 @@ Inktober prompts but with pixel art
 - [09 - Throw](2020/day09-throw.png)
 - [10 - Hope](2020/day10-hope.gif)
 - [11 - Disgusting](2020/day11-disgusting.png)
-- 12 - Slippery
+- [12 - Slippery](2020/day12-slippery.png)
 - 13 - Dune
 - 14 - Armor
 - 15 - Outpost
@@ -46,6 +46,7 @@ Inktober prompts but with pixel art
 ![Throw](2020/day09-throw.png)
 ![Hope](2020/day10-hope.gif)
 ![Disgusting](2020/day11-disgusting.png)
+![Slippery](2020/day12-slippery.png)
 
 # Links
 
