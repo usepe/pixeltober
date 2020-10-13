@@ -112,3 +112,14 @@ Como pensar en Slippery sin pensar en un slime de RPG. Y, como pensar en un slim
 Este poring lo hice tomando como referencia el de la carta de Poring, y la paleta la hice custom para poder tener a mi disposición los colores que le hagan honor (en lo que es mi capacidad claro esta)
 
 Es de los que más me gustó como quedó. No se si es un tema de que el Poring es un personaje que me encanta, o si es un tema de que realmente hace la diferencia una buena paleta, lo comprobaré mañana.
+
+
+## Día 13
+
+Como ayer, cuando pienso en Dune solo me viene una imagen: Un gigantesco y badass gusano de arena. Así que intenté dibujar eso.
+
+Me gustó mucho el resultado a nivel de colores, pese a que el gusano no me gustó como lo sinteticé y que poner en la composición la arena sin el cielo no es convincente.
+
+Siento que estoy mejorando en el uso de ciertas herramientas que ofrece el pixel art, pero que debería probar intentando hacer una composición mas rica usando todo el canvas, y no solo haciendo `el objeto que pide el día en cuestión`.
+
+Mañana con Armor por ahí es un buen día para intentar hacer algo con una escena más desafiante.
