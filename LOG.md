@@ -123,3 +123,16 @@ Me gustó mucho el resultado a nivel de colores, pese a que el gusano no me gust
 Siento que estoy mejorando en el uso de ciertas herramientas que ofrece el pixel art, pero que debería probar intentando hacer una composición mas rica usando todo el canvas, y no solo haciendo `el objeto que pide el día en cuestión`.
 
 Mañana con Armor por ahí es un buen día para intentar hacer algo con una escena más desafiante.
+
+
+## Día 14
+
+Hoy no tenía ganas de dibujar. La verdad es que tuve un día cansador, estuve muy enojado todo el día.
+
+Pero me senté igual y el resultado salió mejor de lo que esperé iba a salir.
+
+Tuve un par de inconvenientes con las paredes. No se de una forma que no sea puntito por puntito de hacerla, y esa que hice es de chiripa intentando hacer todo los cuadros medio "de una" (debe ser por eso que se ve tan estática y repetitiva).
+
+El suelo creo que quedó mejor, y le hizo bien el doble half tone por encima (uno oscuro solo en paredes y piso; uno claro sobre armadura y piso)
+
+Mañana espero tener mejor humor, para Outpost todavía no se ni que voy a hacer.
