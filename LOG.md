@@ -136,3 +136,14 @@ Tuve un par de inconvenientes con las paredes. No se de una forma que no sea pun
 El suelo creo que quedó mejor, y le hizo bien el doble half tone por encima (uno oscuro solo en paredes y piso; uno claro sobre armadura y piso)
 
 Mañana espero tener mejor humor, para Outpost todavía no se ni que voy a hacer.
+
+
+## Dia 15
+
+De nuevo sin ganas. Igualmente una vez que me puse, fluyó todo.
+
+Me gusta como quedó, si bien tiene unos problemitas de contraste (suelo / carpa) me gusto mucho como quedo el fondo así medio minimalista pero que se deja entender que estás en el medio de la nada.
+
+Lo bueno de hacer algo por 15 días seguidos, es que en cierto punto ya podés hacerlo con menos presiones por el resultado, sabés de cierta forma que algo vas a sacar.
+
+Mañana espero encontrarme con ganas, para Rocket debería tener algo simple para hacer.

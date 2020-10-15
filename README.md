@@ -15,7 +15,7 @@ Inktober prompts but with pixel art
 - [12 - Slippery](2020/day12-slippery.png)
 - [13 - Dune](2020/day13-dune.png)
 - [14 - Armour](2020/day14-armour.png)
-- 15 - Outpost
+- [15 - Outpost](2020/day15-outpost.png)
 - 16 - Rocket
 - 17 - Storm
 - 18 - Trap
@@ -49,6 +49,7 @@ Inktober prompts but with pixel art
 ![Slippery](2020/day12-slippery.png)
 ![Dune](2020/day13-dune.png)
 ![Armour](2020/day14-armour.png)
+![Outpost](2020/day15-outpost.png)
 
 # Links
 
