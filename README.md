@@ -16,10 +16,10 @@ Inktober prompts but with pixel art
 - [13 - Dune](2020/day13-dune.png)
 - [14 - Armour](2020/day14-armour.png)
 - [15 - Outpost](2020/day15-outpost.png)
-- 16 - Rocket
-- 17 - Storm
-- 18 - Trap
-- 19 - Dizzy
+- [16 - Rocket](2020/day16-rocket.png)
+- [17 - Storm](2020/day17-storm.png)
+- [18 - Trap](2020/day18-trap.png)
+- [19 - Dizzy](2020/day19-dizzy.png)
 - 20 - Coral
 - 21 - Sleep
 - 22 - Chef
@@ -50,6 +50,10 @@ Inktober prompts but with pixel art
 ![Dune](2020/day13-dune.png)
 ![Armour](2020/day14-armour.png)
 ![Outpost](2020/day15-outpost.png)
+![Rocket](2020/day16-rocket.png)
+![Storm](2020/day17-storm.png)
+![Trap](2020/day18-trap.png)
+![Dizzy](2020/day19-dizzy.png)
 
 # Links
 

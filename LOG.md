@@ -138,7 +138,7 @@ El suelo creo que quedó mejor, y le hizo bien el doble half tone por encima (un
 Mañana espero tener mejor humor, para Outpost todavía no se ni que voy a hacer.
 
 
-## Dia 15
+## Día 15
 
 De nuevo sin ganas. Igualmente una vez que me puse, fluyó todo.
 
@@ -147,3 +147,14 @@ Me gusta como quedó, si bien tiene unos problemitas de contraste (suelo / carpa
 Lo bueno de hacer algo por 15 días seguidos, es que en cierto punto ya podés hacerlo con menos presiones por el resultado, sabés de cierta forma que algo vas a sacar.
 
 Mañana espero encontrarme con ganas, para Rocket debería tener algo simple para hacer.
+
+
+## Día 16, 17, 18, 19
+
+Estuve procrastinando mucho. Voy a pegarle derecho y hacer 16, 17, 18 y 19 el día 19.
+
+Voy a hacer imágenes simples con referencias de internet.
+
+Para el día 18 y 19 hice cosas un poco más elaboradas que en el día 16 y 17 (que la verdad, por ser los primeros del día solo quería sacarmelos de encima).
+
+Para cuando llegué a Trap, empece a querer hacer algo un toque más elaborado, y finalmente en Dizzy encontré algo que tenía ganas de dibujar y creo salió bastante bien.
