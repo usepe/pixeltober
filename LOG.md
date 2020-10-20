@@ -158,3 +158,14 @@ Voy a hacer imágenes simples con referencias de internet.
 Para el día 18 y 19 hice cosas un poco más elaboradas que en el día 16 y 17 (que la verdad, por ser los primeros del día solo quería sacarmelos de encima).
 
 Para cuando llegué a Trap, empece a querer hacer algo un toque más elaborado, y finalmente en Dizzy encontré algo que tenía ganas de dibujar y creo salió bastante bien.
+
+
+## Día 20
+
+La idea la tuve que tomar desde una síntesis de un coral.
+
+La verdad es que los corales son muy complejos, tienen formas super variadas, colores super variados y que van muy bien entre si y a la vez decís "WTF! Que hace ese color ahí".
+
+Me complicó mucho sintetizar mi propiar versión de un coral, y tuve que recurrir a ver como otros lo habían sintetizado.
+
+Por ahí ahora tenga que ir a ver corales de verdad o algo así o, lo que es más posible por diversas razones, ver horas y horas de videos submarinos por internet.

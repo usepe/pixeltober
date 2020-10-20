@@ -20,7 +20,7 @@ Inktober prompts but with pixel art
 - [17 - Storm](2020/day17-storm.png)
 - [18 - Trap](2020/day18-trap.png)
 - [19 - Dizzy](2020/day19-dizzy.png)
-- 20 - Coral
+- [20 - Coral](2020/day20-coral.png)
 - 21 - Sleep
 - 22 - Chef
 - 23 - Rip
@@ -54,6 +54,7 @@ Inktober prompts but with pixel art
 ![Storm](2020/day17-storm.png)
 ![Trap](2020/day18-trap.png)
 ![Dizzy](2020/day19-dizzy.png)
+![Coral](2020/day20-coral.png)
 
 # Links
 
