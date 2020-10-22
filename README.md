@@ -21,7 +21,7 @@ Inktober prompts but with pixel art
 - [18 - Trap](2020/day18-trap.png)
 - [19 - Dizzy](2020/day19-dizzy.png)
 - [20 - Coral](2020/day20-coral.png)
-- 21 - Sleep
+- [21 - Sleep](2020/day21-sleep.png)
 - 22 - Chef
 - 23 - Rip
 - 24 - Dig
@@ -55,6 +55,7 @@ Inktober prompts but with pixel art
 ![Trap](2020/day18-trap.png)
 ![Dizzy](2020/day19-dizzy.png)
 ![Coral](2020/day20-coral.png)
+![Sleep](2020/day21-sleep.png)
 
 # Links
 

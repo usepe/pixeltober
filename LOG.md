@@ -169,3 +169,12 @@ La verdad es que los corales son muy complejos, tienen formas super variadas, co
 Me complicó mucho sintetizar mi propiar versión de un coral, y tuve que recurrir a ver como otros lo habían sintetizado.
 
 Por ahí ahora tenga que ir a ver corales de verdad o algo así o, lo que es más posible por diversas razones, ver horas y horas de videos submarinos por internet.
+
+
+## Día 21
+
+Procrastinator. Hice de nuevo el dibujo un día después (más tarde si tengo más tiempo hago el que sería para el día 22).
+
+La idea ya la tenía. La ejecución quedó más pobre que lo que imaginaba en mi cabeza (era tremenda escena como para el comienzo de un juego que nunca hice).
+
+Cosas buenas: El gato y la ventana tienen un lindo efecto nostalgia.
